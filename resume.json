@@ -131,25 +131,32 @@
           ]
         },
         {
-        "title": "Project with no link",
-        "thumbnail": "https://raw.githubusercontent.com/navdeepsekhon/portfolio-generator/master/screenshot.PNG",
+        "title": "AutoVid.ai",
+        "link":"https://drive.google.com/drive/u/0/folders/1vHQm-dLkVGi1un2Ow81H3xn-4BPM5Uwd",
+        "thumbnail": "https://raw.githubusercontent.com/GulTion/gultion.github.io/master/thumb/autovid.png",
         "description": [
-          "To crete a bulleted list in the pop up",
-          "Put description content within []",
-          "Each bullet item separated by comma"
+          "AutoVid.ai is an AI-powered video creation platform that leverages advanced algorithms and automation techniques to simplify the process of video production. This platform allows users to create professional-quality videos with ease, eliminating the need for extensive video editing skills. By offering a wide range of templates, customization options, and automated features, AutoVid.ai empowers users to generate engaging and visually appealing videos for various purposes."
           ]
-        },
-        {
-        "title": "Project with long paragraph description",
-        "link": "https://github.com/navdeepsekhon/AndroidWeatherApp/",
-        "thumbnail": "https://raw.githubusercontent.com/navdeepsekhon/portfolio-generator/master/screenshot.PNG",
-        "description": "To create a paragraph description in the pop up, do not put content in [], just put it everything within the double quotes."
-          
-        }]
+        }
+     ]
     },
     {
-      "title": "Android",
+      "title": "DeskTop",
       "projects": [
+        {
+          "title": "VISSCO",
+          "link": "https://github.com/GulTion/VISSCO",
+          "thumbnail": "https://raw.githubusercontent.com/GulTion/VISSCO/master/VISSCO.png",
+          "description": "The Project “VISSCO” has been developed to override the problems prevailing in the current applications like Anydesk . This software is supposed to eliminate and in some cases reduce the hardships faced by the user while using the screen sharing applications where other than internet the user is also dependent on mobile phone if he/she wants to communicate to the one with whom he/she is sharing the screen. This saves time and improve effective communication without any hurdle. No formal knowledge is needed for the user to use this application. Thus by this all it proves it is user- friendly. “VISSCO” can lead to simple, easy, less time consuming and fast screen- sharing, controlling , video calling and chating application."
+        
+          },
+
+          {
+            "title": "autom",
+            "link": "https://github.com/GulTion/autom",
+            "thumbnail": "https://raw.githubusercontent.com/GulTion/autom/master/autom.png",
+            "description": "Autom captures mouse events and keystrokes like a tape recorder, allowing you to automate tedious procedures on your computer."
+            },
         {
           "title": "Project with image gallery",
           "thumbnail": "https://raw.githubusercontent.com/navdeepsekhon/AndroidWeatherApp/master/screenshots/tablet_mainscreen.png",
